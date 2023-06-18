@@ -48,7 +48,7 @@ export default function BasicGrid({ homeRef, aboutRef, serviceRef, contactRef })
           justifyContent="center"
           alignItems="center">
           <Typography variant="caption" sx={{ fontWeight: 300, letterSpacing: '.2rem', }}>PHONE NUMBER</Typography>
-          <Typography variant="h5" sx={{ fontWeight: 400, letterSpacing: '.1rem', }}>+000000000</Typography>
+          <Typography variant="h5" sx={{ fontWeight: 400, letterSpacing: '.1rem', }}>+971-52-9910102</Typography>
 
         </Stack>
         <br />
